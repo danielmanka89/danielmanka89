@@ -91,7 +91,7 @@ AI/ML Engineer with 12+ years of experience architecting and deploying scalable,
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -101,9 +101,7 @@ AI/ML Engineer with 12+ years of experience architecting and deploying scalable,
 
 </div>
 
----
-
-### 📚 Learning Repository
+## 📚 Learning Repository
 
 <div align="center">
 

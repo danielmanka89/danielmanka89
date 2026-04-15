@@ -107,7 +107,13 @@ AI/ML Engineer with 12+ years of experience architecting and deploying scalable,
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielmanka89&repo=my-ai-learning-journey&theme=dark&hide_border=true&cache_seconds=0)](https://github.com/danielmanka89/my-ai-learning-journey)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielmanka89&repo=my-ai-learning-journey&theme=dark&hide_border=true)](https://github.com/danielmanka89/my-ai-learning-journey)
+</div>
+
+### 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/danielmanka89)
 
 </div>
 

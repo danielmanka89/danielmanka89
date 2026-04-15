@@ -95,9 +95,9 @@ AI/ML Engineer with 12+ years of experience architecting and deploying scalable,
 
 <div align="center">
 
-![Daniel's GitHub stats](https://github-readme-stats-m91cioyhb-daniel-mankas-projects.vercel.app/api?username=danielmanka89&show_icons=true&theme=dark&hide_border=true)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmanka89&show_icons=true&theme=dark&hide_border=true&cache_seconds=0)
 
-![Top Langs](https://github-readme-stats-m91cioyhb-daniel-mankas-projects.vercel.app/api/top-langs/?username=danielmanka89&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmanka89&layout=compact&theme=dark&hide_border=true&cache_seconds=0)
 
 </div>
 
@@ -105,7 +105,7 @@ AI/ML Engineer with 12+ years of experience architecting and deploying scalable,
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-m91cioyhb-daniel-mankas-projects.vercel.app/api/pin/?username=danielmanka89&repo=my-ai-learning-journey&theme=dark&hide_border=true)](https://github.com/danielmanka89/my-ai-learning-journey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielmanka89&repo=my-ai-learning-journey&theme=dark&hide_border=true&cache_seconds=0)](https://github.com/danielmanka89/my-ai-learning-journey)
 
 </div>
 

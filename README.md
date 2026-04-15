@@ -93,29 +93,17 @@ AI/ML Engineer with 12+ years of experience architecting and deploying scalable,
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![Daniel's GitHub stats](https://github-readme-stats-m91cioyhb-daniel-mankas-projects.vercel.app/api?username=danielmanka89&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-m91cioyhb-daniel-mankas-projects.vercel.app/api/top-langs/?username=danielmanka89&layout=compact&theme=dark&hide_border=true)
 
-</div>
-
 ## 📚 Learning Repository
-
-<div align="center">
 
 [![Readme Card](https://github-readme-stats-m91cioyhb-daniel-mankas-projects.vercel.app/api/pin/?username=danielmanka89&repo=my-ai-learning-journey&theme=dark&hide_border=true)](https://github.com/danielmanka89/my-ai-learning-journey)
 
-</div>
-
-### 📊 GitHub Activity
-
-<div align="center">
+## 📊 GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/danielmanka89)
-
-</div>
 
 ---
 

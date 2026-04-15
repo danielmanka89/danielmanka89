@@ -95,7 +95,7 @@ AI/ML Engineer with 12+ years of experience architecting and deploying scalable,
 
 <div align="center">
 
-![Daniel's GitHub stats](https://github-readme-stats-m91cioyhb-daniel-mankas-projects.vercel.app/api?username=danielmanka89)
+![Daniel's GitHub stats](https://github-readme-stats-m91cioyhb-daniel-mankas-projects.vercel.app/api?username=danielmanka89&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-m91cioyhb-daniel-mankas-projects.vercel.app/api/top-langs/?username=danielmanka89&layout=compact&theme=dark&hide_border=true)
 
